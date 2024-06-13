@@ -112,3 +112,8 @@ exports
 dist
 build
 .strapi-updater.json
+
+############################
+# CI/CD
+############################
+start_dev.sh
