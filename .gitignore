@@ -117,3 +117,4 @@ build
 # CI/CD
 ############################
 start_dev.sh
+deploy.sh
