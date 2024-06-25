@@ -49,6 +49,9 @@
     },
     "content": {
       "type": "richtext"
+    },
+    "tags": {
+      "type": "json"
     }
   }
 }
