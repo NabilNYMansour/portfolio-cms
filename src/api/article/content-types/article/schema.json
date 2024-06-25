@@ -51,7 +51,8 @@
       "type": "richtext"
     },
     "tags": {
-      "type": "json"
+      "type": "json",
+      "required": true
     }
   }
 }
