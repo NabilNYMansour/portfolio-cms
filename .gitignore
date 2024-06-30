@@ -118,3 +118,4 @@ build
 ############################
 start_dev.sh
 deploy.sh
+get_tmp_pub.sh
